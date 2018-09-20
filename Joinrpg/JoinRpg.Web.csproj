@@ -243,6 +243,7 @@
     <Compile Include="Models\Characters\CharacterGroupReportItemViewModel.cs" />
     <Compile Include="Models\Characters\CharacterGroupReportViewModel.cs" />
     <Compile Include="Models\CheckIn\SecondRoleViewModel.cs" />
+    <Compile Include="Models\ClaimDenialStatusView.cs" />
     <Compile Include="Models\GameRolesReportViewModel.cs" />
     <Compile Include="Models\InviteRequestViewModel.cs" />
     <Compile Include="Models\Plot\PublishPlotElementViewModel.cs" />
